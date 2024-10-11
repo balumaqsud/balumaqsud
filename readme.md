@@ -1,5 +1,6 @@
-
-<h2  align="center">Hi 👋, I'm Ollobergan</h2>
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Ollobergan!;" />
+</h2>
 
 <p align="center">"Experienced web developer skilled in building scalable, responsive web applications using modern technologies like JavaScript, Nests, Nextjs, React, Node.js, and Typescript" </p>
 
