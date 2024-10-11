@@ -1,10 +1,5 @@
 
-<h1 style="font-family: Arial, sans-serif; font-size: 20px;"  align="center">Hi 👋, I'm Ollobergan</h1>
-
-<p style="font-family: Arial, sans-serif; font-size: 20px;">
-This text will be displayed with the Arial font and a size of 20px.
-</p>
-
+<h1 style="font-size: 2px;"  align="center">Hi 👋, I'm Ollobergan</h1>
 
 <h4 align="center">"Experienced web developer skilled in building scalable, responsive web applications using modern technologies like JavaScript, Nests, Nextjs, React, Node.js, and Typescript"</h4>
 
