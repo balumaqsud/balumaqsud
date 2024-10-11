@@ -1,5 +1,5 @@
 
-<h3  align="center">Hi 👋, I'm Ollobergan</h3>
+<h2  align="center">Hi 👋, I'm Ollobergan</h2>
 
 <p align="center">"Experienced web developer skilled in building scalable, responsive web applications using modern technologies like JavaScript, Nests, Nextjs, React, Node.js, and Typescript" </p>
 
