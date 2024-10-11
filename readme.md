@@ -1,5 +1,5 @@
 
-<h1 style="font-size: 2px;"  align="center">Hi 👋, I'm Ollobergan</h1>
+<h4  align="center">Hi 👋, I'm Ollobergan</h4>
 
 "Experienced web developer skilled in building scalable, responsive web applications using modern technologies like JavaScript, Nests, Nextjs, React, Node.js, and Typescript"
 
