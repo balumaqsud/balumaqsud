@@ -1,5 +1,12 @@
 
-<h1  align="center">Hi 👋, I'm Ollobergan</h1>
+<h1 style="font-family: Arial, sans-serif; font-size: 20px;"  align="center">Hi 👋, I'm Ollobergan</h1>
+
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+<p style="font-family: 'Roboto', sans-serif;">
+This text will be displayed with the Roboto font.
+</p>
+
 
 <h4 align="center">"Experienced web developer skilled in building scalable, responsive web applications using modern technologies like JavaScript, Nests, Nextjs, React, Node.js, and Typescript"</h4>
 
