@@ -1,5 +1,4 @@
-[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=flat&logo=leetcode)](https://leetcode.com/u/ollobergan008/)  
-[![Blog](https://img.shields.io/badge/Blog-007ACC?style=flat&logo=wordpress)](https://velog.io/@balumaqsud/posts)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=flat&logo=leetcode)](https://leetcode.com/u/ollobergan008/) [![Blog](https://img.shields.io/badge/Blog-007ACC?style=flat&logo=wordpress)](https://velog.io/@balumaqsud/posts)  
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+There!+👋;+I'm+Ollobergan!;" />
 </h3>
