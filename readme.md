@@ -1,5 +1,3 @@
-[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=flat&logo=leetcode)](https://leetcode.com/u/ollobergan008/) [![Blog](https://img.shields.io/badge/Blog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@balumaqsud/posts)
-
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+There!+👋;+I'm+Ollobergan!;" />
 </h3>
@@ -18,3 +16,6 @@
 	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a> 
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 </p>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=flat&logo=leetcode)](https://leetcode.com/u/ollobergan008/) [![Blog](https://img.shields.io/badge/Blog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@balumaqsud/posts)
+
