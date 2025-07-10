@@ -6,7 +6,7 @@
 
 <p align="center">"Full-stack developer, skilled in building web applications using technologies below" </p>
 
-<p align="left">
+<p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
