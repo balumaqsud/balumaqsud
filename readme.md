@@ -25,14 +25,7 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,react,nextjs,tailwind,mongodb" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,angular,nestjs,react,nextjs,tailwind,mongodb,redis,postgresql" />
 </p>
 
----
-
-### 🧠 About Me
-
-- 💻 Full-stack developer focused on **TypeScript ecosystem**
-- ⚙️ Strong experience with **REST APIs & backend architecture**
-- 🎯 Interested in **scalable systems & clean code practices**
 ---
