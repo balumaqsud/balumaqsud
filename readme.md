@@ -22,7 +22,7 @@
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,angular,nestjs,react,nextjs,tailwind,mongodb,redis,postgresql" />
