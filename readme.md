@@ -1,31 +1,22 @@
-<p align="center">
-  <a href="https://leetcode.com/u/ollobergan008/">
-    <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=yellow" />
-  </a>
-  <a href="https://velog.io/@balumaqsud/posts">
-    <img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
-  </a>
-</p>
+# Hi 👋, I'm Ollobergan
 
-<h1 align="center">
-  Hi 👋, I'm Ollobergan
-</h1>
+### Full-Stack Developer
 
-<h3 align="center">
-  Full-Stack Developer • Building Scalable Web Applications
-</h3>
+I build web applications with TypeScript and JavaScript, working across both frontend and backend.
 
-<p align="center">
-  I specialize in designing and developing modern, scalable, and maintainable web applications.
-  Passionate about clean architecture, performance, and delivering real-world solutions.
-</p>
+My main stack includes React, Next.js, Node.js, NestJS, PostgreSQL, MongoDB, and Redis.
 
----
+## Projects
 
-### Tech Stack
+**SpeakWise** — AI-powered English interview and speaking practice platform.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,angular,nestjs,react,nextjs,tailwind,mongodb,redis,postgresql" />
-</p>
+**artly** — Marketplace platform for creators and independent makers.
 
----
+## Stack
+
+TypeScript · JavaScript · React · Next.js · Angular · Node.js · NestJS  
+PostgreSQL · MongoDB · Redis · Git
+
+## Links
+
+LeetCode · Blog · LinkedIn
