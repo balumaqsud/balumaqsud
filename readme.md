@@ -13,4 +13,4 @@ PostgreSQL · MongoDB · Redis · Git
 
 ## Links
 
-LeetCode · Blog · LinkedIn
+--- · --- · ---
