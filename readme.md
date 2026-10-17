@@ -1,16 +1,12 @@
-# Hi 👋, I'm Ollobergan
+# hello;) I'm Ollobergan
 
-### Full-Stack Developer
+### FullStack Developer
 
-I build web applications with TypeScript and JavaScript, working across both frontend and backend.
+Just doing something I love :) 
 
-My main stack includes React, Next.js, Node.js, NestJS, PostgreSQL, MongoDB, and Redis.
+Stacks I use React, Nextjs, Twig / Nestjs, Symphony(PHP) / PostgreSQL, MongoDb, Redis / Docker, AWS etc.
 
-## Stack
+## Contact
+ollobergan008@gmail.com
 
-TypeScript · JavaScript · React · Next.js · Angular · Node.js · NestJS  
-PostgreSQL · MongoDB · Redis · Git
 
-## Links
-
---- · --- · ---
