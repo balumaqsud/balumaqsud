@@ -1,4 +1,4 @@
-# hello :) I'm Ollobergan
+## hello, I'm Ollobergan
 
 ### FullStack Developer
 
