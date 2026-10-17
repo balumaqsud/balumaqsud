@@ -1,8 +1,8 @@
-# hello;) I'm Ollobergan
+# hello :) I'm Ollobergan
 
 ### FullStack Developer
 
-Just doing something I love :) 
+Just doing something I love 
 
 Stacks I use React, Nextjs, Twig / Nestjs, Symphony(PHP) / PostgreSQL, MongoDb, Redis / Docker, AWS etc.
 
